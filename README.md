@@ -1,5 +1,5 @@
 Resumo de estudos sobre banco de dados. 
-Banco de Dados
+
 
 SGBD (Sistema de Gerenciamento de Banco de Dados): 
 São sistemas responsáveis pelo gerenciamento de informações em bancos de dados.
